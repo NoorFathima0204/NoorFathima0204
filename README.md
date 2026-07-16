@@ -1,13 +1,14 @@
 # Hi, I'm Noor Fathima 👋
 
-## Full Stack Developer | React | Python | Django
+## Full Stack Developer | Python | React | Django
 
-🎓 Computer Science Engineer  
-💻 Building real-world full-stack applications  
-🚀 Interested in creating scalable web applications and solving real-world problems
+I am a Computer Science Engineering graduate passionate about building scalable web applications and solving real-world problems using modern technologies.
 
+Currently exploring Full Stack Development with React, Django, REST APIs, and Generative AI.
 
-## 🛠️ Technical Skills
+---
+
+## 🚀 Skills
 
 ### Frontend
 - HTML
@@ -21,49 +22,63 @@
 - REST APIs
 
 ### Database
-- SQL
 - MySQL
+- SQL
 
 ### Tools
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
+- Jupyter Notebook
+- Google Colab
 
+---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-### 🏦 ZeTheta Loan Application System
-
-A React-based multi-step loan application platform.
+### 🔹 ZeTheta Loan Application System
+A multi-step loan application workflow built using React.
 
 **Tech Stack:**
-React.js • Vite • Context API • Form Validation
+React.js | Vite | Context API | React Hook Form | Zod Validation
 
-**Features:**
-- Multi-step loan application workflow
-- Personal, KYC, employment details
+Features:
+- Multi-step form wizard
+- Form validation
 - Document upload
+- Digital signature
 - Responsive UI
 
 
-### 🩺 Pneumonia Detection using Swin Transformer V2
-
-Deep Learning based pneumonia classification system.
-
-**Highlights:**
-- Multi-class classification
-- Explainable AI using SHAP
-- Research project with IEEE publication
-
-
-### 📧 Dhee Mail
-
-Python Full Stack Email Management System.
+### 🔹 Pneumonia Detection using Swin Transformer V2
+Deep Learning based medical image classification system.
 
 **Tech Stack:**
-Python • Django • SQL
+Python | Deep Learning | Computer Vision | SHAP Explainability
+
+Features:
+- Multi-class pneumonia classification
+- Explainable AI using SHAP
+- Transformer-based architecture
 
 
-## 📫 Connect With Me
+### 🔹 Dhee Mail - Email Management System
+Full Stack email management application developed during internship.
 
-LinkedIn: https://www.linkedin.com/in/noorfathima02
+**Tech Stack:**
+Python | Django | SQL | REST APIs
+
+---
+
+## 📈 Currently Learning
+
+- Advanced React
+- Django Backend Development
+- REST API Design
+- Generative AI Integration
+
+
+## 🤝 Connect With Me
+
+LinkedIn: Add your LinkedIn URL here
+
+Email: Add your email here
