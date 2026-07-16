@@ -66,4 +66,4 @@ Python • Django • SQL
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your profile link here
+LinkedIn: https://www.linkedin.com/in/noorfathima02
