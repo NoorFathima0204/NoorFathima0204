@@ -79,6 +79,6 @@ Python | Django | SQL | REST APIs
 
 ## 🤝 Connect With Me
 
-LinkedIn: Add your LinkedIn URL here
+LinkedIn:https://www.linkedin.com/in/noorfathima02
 
-Email: Add your email here
+Email:noor.fathimaa0204@gmail.com
