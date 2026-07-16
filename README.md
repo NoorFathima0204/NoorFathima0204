@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Noor Fathima 👋
 
-<!--
-**NoorFathima0204/NoorFathima0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | React | Python | Django
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineer  
+💻 Building real-world full-stack applications  
+🚀 Interested in creating scalable web applications and solving real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Technical Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Backend
+- Python
+- Django
+- REST APIs
+
+### Database
+- SQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+
+## 🚀 Featured Projects
+
+### 🏦 ZeTheta Loan Application System
+
+A React-based multi-step loan application platform.
+
+**Tech Stack:**
+React.js • Vite • Context API • Form Validation
+
+**Features:**
+- Multi-step loan application workflow
+- Personal, KYC, employment details
+- Document upload
+- Responsive UI
+
+
+### 🩺 Pneumonia Detection using Swin Transformer V2
+
+Deep Learning based pneumonia classification system.
+
+**Highlights:**
+- Multi-class classification
+- Explainable AI using SHAP
+- Research project with IEEE publication
+
+
+### 📧 Dhee Mail
+
+Python Full Stack Email Management System.
+
+**Tech Stack:**
+Python • Django • SQL
+
+
+## 📫 Connect With Me
+
+LinkedIn: Add your profile link here
